@@ -1,0 +1,7 @@
+{
+  "name": "LinguaRoleplay V3",
+  "description": "A fun, interactive English role-playing app that helps you learn by chatting in real-world scenarios. Features AI feedback and high-quality voice output.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
